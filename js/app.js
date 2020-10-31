@@ -1,5 +1,5 @@
 // Cocoen library, from koenoe https://github.com/koenoe/cocoen/blob/master/docs/index.md
-
+// Digital article and formatting by Niko McCarty. Style adapted from https://codepen.io/jctosta/pen/AcLgk
 class Cocoen {
   constructor(element, options) {
     this.options = Object.assign({}, Cocoen.defaults, options);
