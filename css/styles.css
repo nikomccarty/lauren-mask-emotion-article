@@ -298,3 +298,14 @@ article img {
     font-size: 1.8rem;
     line-height: 2.0rem; }
  }
+
+#cover {
+ 	position: relative;
+ 	top: 20%;
+ 	transform: translateY(-5%);
+  z-index: 3;
+ }
+
+img.largeImg {
+	width: 100%;
+}
